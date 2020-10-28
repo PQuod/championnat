@@ -1,0 +1,81 @@
+@font-face {
+    font-family: 'bluu';
+    src: url('../fonts/bluunext-bold-webfont.woff2') format('woff2'),
+         url('../fonts/bluunext-bold-webfont.woff') format('woff'),
+         url('../fonts/bluunext-bold.ttf') format('truetype'),
+         url('../fonts/bluunext-bold-webfont.svg#bluu_nextbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+:root {
+	--sans-serif: 'bluu', sans-serif;
+  --serif: 'EB Garamond', serif;
+  --font-color: black;
+  --line-height:1.15em;
+}
+
+*{
+	margin:0;
+	padding:0;
+}
+
+h1{
+	margin:0;
+	padding:0;
+	line-height:0.8;
+}
+
+h1, h2, h3, h4, h5, h6{
+	font-family:var(--sans-serif);
+}
+
+
+p{
+	font-family:var(--serif);
+	text-align:justify;
+	margin-bottom:var(--line-height);
+}
+
+a{
+	color: var(--font-color);
+	text-decoration:none;
+}
+
+.header-titre {
+	max-width:50%;
+	margin:auto;
+	margin-top:calc(var(--line-height)*1.5);
+	margin-bottom:calc(var(--line-height)*3);
+}
+
+.le {
+	font-size:1.2em;
+	text-transform:uppercase;
+}
+
+.tresgros{
+	font-size:2.9em;
+	text-transform:uppercase;
+}
+
+.content{
+width:60%;
+margin:auto;
+}
+
+.post-header{
+	text-align:center;
+	margin-bottom:calc(var(--line-height)*2);
+}
+
+
+.mentions{
+	font-family:var(--serif);
+	font-size:0.8em;
+	width:100%;
+	margin-top:calc(var(--line-height)*2);
+	margin-bottom:calc(var(--line-height)*2);
+	text-align:center;
+}
