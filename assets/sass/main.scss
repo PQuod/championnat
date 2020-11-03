@@ -13,7 +13,8 @@
 	--sans-serif: 'bluu', sans-serif;
   --serif: 'EB Garamond', serif;
   --font-color: black;
-  --line-height:1.15em;
+  --line-height:1.6em;
+  --font-size:1em;
 }
 
 *{
@@ -43,12 +44,13 @@ a{
 	text-decoration:none;
 }
 
-.header-titre {
-	max-width:50%;
-	margin:auto;
+.header {
 	margin-top:calc(var(--line-height)*1.5);
 	margin-bottom:calc(var(--line-height)*3);
+	text-align:center;
 }
+
+
 
 .le {
 	font-size:1.2em;
@@ -60,13 +62,39 @@ a{
 	text-transform:uppercase;
 }
 
+
+main{
+    width:70%;
+    margin:auto;
+}
+
+.navigation{
+  vertical-align: top;
+  max-width:15%;
+  padding:20px;
+}
+
+nav{
+    margin-top:calc(var(--line-height)*3);
+    text-align:right;
+    line-height: var(--line-height);
+    font-size:var(--font-size);
+}
+
+.navlinks{
+  font-size:calc(var(--font-size)*0.8);
+}
+
+
+
 .content{
-width:60%;
-margin:auto;
+  padding:20px;
+  line-height: var(--line-height);
 }
 
 .post-header{
 	text-align:center;
+  max-height:calc(var(--line-height)*3);
 	margin-bottom:calc(var(--line-height)*2);
 }
 

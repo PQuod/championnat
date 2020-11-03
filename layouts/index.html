@@ -1,17 +1,22 @@
  {{ partial "head.html" . }}
  {{ partial "header.html" . }}
- {{ partial "nav.html" . }}
  <main>
-	<div class="content">
-		{{ range .Site.Taxonomies.categories.index }}
-		<div class="post-header">
-			<h1>{{ .Title }}</h1>
-		</div>
-		<div class="post-content">
-			{{ .Content }}
-			{{ end }}
-		</div>
-	</div>
-	
+   <table>
+     <tr>
+       <td class="navigation">
+         {{ partial "nav.html" . }}
+        </td>
+	       <td class="content">
+		         {{ range .Site.Taxonomies.categories.index }}
+          		<div class="post-header">
+          			<h1>{{ .Title }}</h1>
+          		</div>
+        		<div class="post-content">
+        			{{ .Content }}
+        			{{ end }}
+        		</div>
+        </td>
+        </tr>
+        </table>
 </main>
 {{ partial "footer.html" . }}
