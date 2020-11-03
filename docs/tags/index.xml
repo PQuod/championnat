@@ -1,10 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Le TRÈS GROS championnat de poésie</title>
     <link>https://pquod.github.io/championnat/tags/</link>
     <description>Recent content in Tags on Le TRÈS GROS championnat de poésie</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language><atom:link href="https://pquod.github.io/championnat/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr-fr</language>
+    <lastBuildDate>Wed, 28 Oct 2020 11:48:01 +0100</lastBuildDate>
+    
+	<atom:link href="https://pquod.github.io/championnat/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://pquod.github.io/championnat/tags/</link>
+      <pubDate>Wed, 28 Oct 2020 11:48:01 +0100</pubDate>
+      
+      <guid>https://pquod.github.io/championnat/tags/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

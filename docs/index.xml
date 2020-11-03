@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Le TRÈS GROS championnat de poésie</title>
@@ -6,13 +6,53 @@
     <description>Recent content on Le TRÈS GROS championnat de poésie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Tue, 27 Oct 2020 10:56:32 +0100</lastBuildDate><atom:link href="https://pquod.github.io/championnat/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Oct 2020 11:48:01 +0100</lastBuildDate>
+    
+	<atom:link href="https://pquod.github.io/championnat/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
-      <title>Test</title>
-      <link>https://pquod.github.io/championnat/test/</link>
+      <title>Calendrier</title>
+      <link>https://pquod.github.io/championnat/posts/calendrier/</link>
+      <pubDate>Wed, 28 Oct 2020 11:48:01 +0100</pubDate>
+      
+      <guid>https://pquod.github.io/championnat/posts/calendrier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Équipes</title>
+      <link>https://pquod.github.io/championnat/posts/equipes/</link>
+      <pubDate>Wed, 28 Oct 2020 11:47:52 +0100</pubDate>
+      
+      <guid>https://pquod.github.io/championnat/posts/equipes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Règlement</title>
+      <link>https://pquod.github.io/championnat/posts/reglement/</link>
+      <pubDate>Wed, 28 Oct 2020 11:47:23 +0100</pubDate>
+      
+      <guid>https://pquod.github.io/championnat/posts/reglement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inscriptions</title>
+      <link>https://pquod.github.io/championnat/posts/inscriptions/</link>
+      <pubDate>Tue, 27 Oct 2020 15:58:27 +0100</pubDate>
+      
+      <guid>https://pquod.github.io/championnat/posts/inscriptions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>À Propos</title>
+      <link>https://pquod.github.io/championnat/posts/apropos/</link>
       <pubDate>Tue, 27 Oct 2020 10:56:32 +0100</pubDate>
       
-      <guid>https://pquod.github.io/championnat/test/</guid>
+      <guid>https://pquod.github.io/championnat/posts/apropos/</guid>
       <description>Bagaceratops Albertadromeus Eocursor Pneumatoarthrus Macrophalangia Lufengocephalus Azendohsaurus Rugops Aetonyx Microhadrosaurus Aggiosaurus Isanosaurus Helioceratops Microcoelus Xinjiangovenator Hecatasaurus Sanjuansaurus Pneumatoarthrus Lagosuchus Sinucerasaurus Altirhinus Hypacrosaurus Gigantoraptor Cheneosaurus Quilmesaurus Koutalisaurus Orthogoniosaurus Monkonosaurus Tanystrosuchus Asylosaurus Nipponosaurus Sciurumimus Sanjuansaurus Emausaurus Zephyrosaurus Anatotitan Sonorasaurus Ugrosaurus Chialingosaurus Kakuru Jobaria Antrodemus Neosaurus Libycosaurus Gyposaurus Skorpiovenator Sinovenator Narambuenatitan Staurikosaurus Vitakridrinda Macrophalangia Anodontosaurus Sauroplites Carcharodontosaurus Tianchisaurus Amazonsaurus Archaeopteryx Aggiosaurus Dracorex Aachenosaurus Saltasaurus Ornithomimus Parasaurolophus Ahshislepelta Sinosauropteryx Shixinggia Tyrannotitan Suchosaurus Brachyceratops Gwyneddosaurus Tehuelchesaurus Chubutisaurus Alectrosaurus Suchoprion Iuticosaurus Ceratosaurus Eobrontosaurus Agathaumas Gobiceratops Camarasaurus Parvicursor Haplocanthosaurus Pleurocoelus Prenoceratops Walkeria Amurosaurus Lesothosaurus Noasaurus Shenzhousaurus Podokesaurus Orodromeus Ceratops Helopus Pleurocoelus Acrocanthosaurus Abelisaurus Venaticosuchus Rocasaurus Wulatelong Kazaklambia Yulong Centrosaurus Velafrons Trigonosaurus Harpymimus Sphenospondylus Hypsirophus Liaoceratops Thecospondylus Lufengocephalus Mussaurus Daemonosaurus Bruhathkayosaurus Spinostropheus Vectisaurus Algoasaurus Microvenator Ozraptor Shuvosaurus Gilmoreosaurus Petrobrasaurus Skorpiovenator Kentrosaurus Acrotholus Zuolong Diamantinasaurus Jiutaisaurus Picrodon Yangchuanosaurus Nambalia Shixinggia Hypsibema Anchiornis Hongshanosaurus Cionodon Gongbusaurus Dinosaurus Heterodontosaurus Tugulusaurus Dongbeititan Sinovenator Talenkauen Arstanosaurus Dasygnathus Creosaurus Propanoplosaurus Streptospondylus Paludititan Einiosaurus Callovosaurus.</description>
     </item>
     

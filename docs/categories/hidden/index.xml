@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hidden on Le TRÈS GROS championnat de poésie</title>
+    <link>https://pquod.github.io/championnat/categories/hidden/</link>
+    <description>Recent content in Hidden on Le TRÈS GROS championnat de poésie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Tue, 27 Oct 2020 15:58:27 +0100</lastBuildDate>
+    
+	<atom:link href="https://pquod.github.io/championnat/categories/hidden/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Inscriptions</title>
+      <link>https://pquod.github.io/championnat/posts/inscriptions/</link>
+      <pubDate>Tue, 27 Oct 2020 15:58:27 +0100</pubDate>
+      
+      <guid>https://pquod.github.io/championnat/posts/inscriptions/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
