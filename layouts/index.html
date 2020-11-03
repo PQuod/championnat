@@ -1,5 +1,6 @@
  {{ partial "head.html" . }}
  {{ partial "header.html" . }}
+ {{ partial "nav.html" . }}
  <main>
 	<div class="content">
 		{{ range .Site.Taxonomies.categories.index }}
@@ -11,5 +12,6 @@
 			{{ end }}
 		</div>
 	</div>
+	
 </main>
 {{ partial "footer.html" . }}
