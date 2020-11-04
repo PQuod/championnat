@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Le TRÈS GROS championnat de poésie</title>
+    <title>Le TRÈS GROS championnat de poésie</title>
     <link>https://pquod.github.io/championnat/categories/</link>
-    <description>Recent content in Categories on Le TRÈS GROS championnat de poésie</description>
+    <description>Recent content on Le TRÈS GROS championnat de poésie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Wed, 28 Oct 2020 11:48:01 +0100</lastBuildDate>
@@ -12,34 +12,35 @@
     
     
     <item>
-      <title></title>
-      <link>https://pquod.github.io/championnat/categories/</link>
+      <title>Calendrier</title>
+      <link>https://pquod.github.io/championnat/calendrier/</link>
       <pubDate>Wed, 28 Oct 2020 11:48:01 +0100</pubDate>
       
-      <guid>https://pquod.github.io/championnat/categories/</guid>
+      <guid>https://pquod.github.io/championnat/calendrier/</guid>
+      <description>lala</description>
+    </item>
+    
+    <item>
+      <title>Calendrier</title>
+      <link>https://pquod.github.io/championnat/calendrier/</link>
+      <pubDate>Wed, 28 Oct 2020 11:48:01 +0100</pubDate>
+      
+      <guid>https://pquod.github.io/championnat/calendrier/</guid>
+      <description>lala</description>
+    </item>
+    
+    <item>
+      <title>Équipes</title>
+      <link>https://pquod.github.io/championnat/equipes/</link>
+      <pubDate>Wed, 28 Oct 2020 11:47:52 +0100</pubDate>
+      
+      <guid>https://pquod.github.io/championnat/equipes/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Hidden</title>
-      <link>https://pquod.github.io/championnat/categories/hidden/</link>
-      <pubDate>Tue, 27 Oct 2020 15:58:27 +0100</pubDate>
-      
-      <guid>https://pquod.github.io/championnat/categories/hidden/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Index</title>
-      <link>https://pquod.github.io/championnat/categories/index/</link>
-      <pubDate>Tue, 27 Oct 2020 10:56:32 +0100</pubDate>
-      
-      <guid>https://pquod.github.io/championnat/categories/index/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>ttps://pquod.github.io/championnat/equipes/</link>
+      <title>Équipes</title>
+      <link>https://pquod.github.io/championnat/equipes/</link>
       <pubDate>Wed, 28 Oct 2020 11:47:52 +0100</pubDate>
       
       <guid>https://pquod.github.io/championnat/equipes/</guid>

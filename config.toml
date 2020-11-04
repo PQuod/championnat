@@ -1,8 +1,11 @@
-baseURL = "https://pquod.github.io/"
+baseURL = "https://pquod.github.io/championnat"
 languageCode = "fr-fr"
 DefaultContentLanguage = "fr"
 title = "Le TRÈS GROS championnat de poésie"
 publishDir = "docs"
-
+contentDir = "content"
 githubName="PQuod"
 email="lucie.desaubliaux@maisondelapoesie-rennes.org"
+
+[permalinks]
+  posts = "/:filename/"

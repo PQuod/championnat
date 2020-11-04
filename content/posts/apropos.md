@@ -1,7 +1,6 @@
 ---
 Author : "Maison de la Poésie de Rennes"
 Description : ""
-Categories : ["index"]
 Tags : ["",""]
 title: "À Propos"
 date: 2020-10-27T10:56:32+01:00
