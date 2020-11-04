@@ -45,9 +45,12 @@ a {
   font-size: 2.9em;
   text-transform: uppercase; }
 
-main {
+.main {
   width: 70%;
   margin: auto; }
+
+.table-content {
+  width: 100%; }
 
 .navigation {
   vertical-align: top;
@@ -60,9 +63,14 @@ nav {
   line-height: var(--line-height);
   font-size: var(--font-size); }
 
+.navlinks {
+  font-size: calc(var(--font-size)*0.8); }
+
 .content {
   padding: 20px;
-  line-height: var(--line-height); }
+  line-height: var(--line-height);
+  min-width: 80%;
+  vertical-align: top; }
 
 .post-header {
   text-align: center;

@@ -3,27 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://pquod.github.io/championnat/posts/calendrier/</loc>
+    <loc>https://pquod.github.io/championnat/calendrier/</loc>
     <lastmod>2020-10-28T11:48:01+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pquod.github.io/championnat/posts/equipes/</loc>
+    <loc>https://pquod.github.io/championnat/equipes/</loc>
     <lastmod>2020-10-28T11:47:52+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pquod.github.io/championnat/posts/reglement/</loc>
+    <loc>https://pquod.github.io/championnat/reglement/</loc>
     <lastmod>2020-10-28T11:47:23+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pquod.github.io/championnat/posts/inscriptions/</loc>
+    <loc>https://pquod.github.io/championnat/inscriptions/</loc>
     <lastmod>2020-10-27T15:58:27+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pquod.github.io/championnat/posts/apropos/</loc>
+    <loc>https://pquod.github.io/championnat/posts/</loc>
+    <lastmod>2020-10-27T10:56:32+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pquod.github.io/championnat/apropos/</loc>
     <lastmod>2020-10-27T10:56:32+01:00</lastmod>
   </url>
   
@@ -59,12 +64,6 @@
   
   <url>
     <loc>https://pquod.github.io/championnat/</loc>
-    <lastmod>2020-10-28T11:48:01+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://pquod.github.io/championnat/posts/</loc>
     <lastmod>2020-10-28T11:48:01+01:00</lastmod>
     <priority>0</priority>
   </url>

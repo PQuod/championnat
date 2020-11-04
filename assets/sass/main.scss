@@ -63,9 +63,13 @@ a{
 }
 
 
-main{
+.main{
     width:70%;
     margin:auto;
+}
+
+.table-content{
+  width:100%;
 }
 
 .navigation{
@@ -86,16 +90,18 @@ nav{
 }
 
 
-
 .content{
   padding:20px;
   line-height: var(--line-height);
+  min-width:80%;
+    vertical-align:top;
 }
 
 .post-header{
 	text-align:center;
   max-height:calc(var(--line-height)*3);
 	margin-bottom:calc(var(--line-height)*2);
+
 }
 
 
