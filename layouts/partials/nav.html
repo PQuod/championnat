@@ -1,5 +1,0 @@
-<nav>
-{{ range where .Site.Pages "Params.menu" "true"}}
-	<a class="navlinks" href="{{.Permalink}}"><h2>{{ .Title }}</h2></a>
-{{end}}
-</nav>
