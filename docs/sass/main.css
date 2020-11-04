@@ -39,6 +39,10 @@ ol {
   font-family: var(--serif);
   padding-left: 1em; }
 
+li {
+  font-family: var(--serif);
+  padding-left: 1em; }
+
 .header {
   margin-top: calc(var(--line-height)*1.5);
   margin-bottom: calc(var(--line-height)*3);
@@ -73,10 +77,9 @@ ol {
   padding: 20px; }
 
 nav {
-  margin-top: calc(var(--line-height)*3);
+  margin-top: calc(var(--line-height)*4);
   text-align: right;
-  line-height: var(--line-height);
-  font-size: var(--font-size); }
+  line-height: var(--line-height); }
 
 .navlinks {
   font-size: calc(var(--font-size)*0.8); }
@@ -90,12 +93,16 @@ nav {
 .post-header {
   text-align: center;
   max-height: calc(var(--line-height)*3);
-  margin-bottom: calc(var(--line-height)*2); }
+  margin-bottom: calc(var(--line-height)*2);
+  font-size: calc(var(--font-size)*1.3); }
 
 .post-content h3 {
   margin-top: calc(var(--line-height)*2);
   margin-bottom: var(--line-height);
   text-align: center; }
+
+.post-content {
+  font-size: calc(var(--font-size)*1.5); }
 
 .mentions {
   font-family: var(--serif);
