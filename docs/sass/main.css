@@ -35,6 +35,10 @@ a {
 a:hover {
   color: darkred; }
 
+ol {
+  font-family: var(--serif);
+  padding-left: 1em; }
+
 .header {
   margin-top: calc(var(--line-height)*1.5);
   margin-bottom: calc(var(--line-height)*3);
@@ -87,6 +91,11 @@ nav {
   text-align: center;
   max-height: calc(var(--line-height)*3);
   margin-bottom: calc(var(--line-height)*2); }
+
+.post-content h3 {
+  margin-top: calc(var(--line-height)*2);
+  margin-bottom: var(--line-height);
+  text-align: center; }
 
 .mentions {
   font-family: var(--serif);
